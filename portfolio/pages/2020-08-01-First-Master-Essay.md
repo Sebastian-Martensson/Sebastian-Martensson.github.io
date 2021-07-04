@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Replication of Tse - Conditional Heteroscedastic Volatility
+Title: Geographical distribution of the Swedish gasoline tax
 tags: [Economics, Climate, Time Series, Maps, Error Correction Model]
 math: true
 date: 2020-10-02 15:32 +0800

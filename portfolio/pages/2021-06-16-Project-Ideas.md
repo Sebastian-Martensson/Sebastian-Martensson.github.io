@@ -1,9 +1,10 @@
 ---
 layout: post
 Title: Project Ideas
-tags: [Climate, Economics, Time series]
+tags: [Economics]
 math: true
 ---
+This post contains ideas I've had for hobby projects.
 
 # Harrington and Chen 2006
 Recreate the theoretical study of how cartels internalise the probability of being caught. maybe extend it towards how firms believe that others may deviate (Internal stability)
