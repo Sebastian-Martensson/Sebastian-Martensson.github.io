@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: Predictions for a Portugese Banking Institution
-tags: [Finance, Economics, GARCH, Replication]
+tags: [Finance, Economics, Replication]
 math: true
 ---
 # Predictions for a Portugese Banking Institution
