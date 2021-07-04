@@ -4,8 +4,6 @@ Title: Vocation Station - A Cost-Benefit Analysis of Adult Vocational Education 
 tags: [Economic Evaluation, Micro, Economics]
 math: true
 ---
-<img src="/portfolio/pages-images/Conditional-Heteroscedastic-Volatility-page.jpg" class="page-image" alt="">
-
 # Vocation Station
 ## A Cost-Benefit Analysis of Adult Vocational Education Spending in Sweden in 2020
 <em>

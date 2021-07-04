@@ -15,7 +15,7 @@ It contains the names and adress of the gas station, colour(which represent the 
 For analysis, you would first have to remove all redundant values (which there are alot of).
 
 ### How to set it up on your own
-If you want to set it up on your own so that it everyday, then the following will explain how you do it on Windows 10, Python 3.8. This guide may be incomplete since I'm working from memory
+If you want to set it up on your own so that it scrapes everyday, then the following will explain how you do it on Windows 10, Python 3.8. This guide may be incomplete since I'm working from memory.
 
 1. Fork repository
 2. Download and install the python packages using pip: 
