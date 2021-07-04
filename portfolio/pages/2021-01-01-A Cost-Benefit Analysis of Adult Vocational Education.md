@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Vocation Station - A Cost-Benefit Analysis of Adult Vocational Education Spending in Sweden in 2020
+Title: A Cost-Benefit Analysis of Adult Vocational Education 
 tags: [Economic Evaluation, Micro, Economics]
 math: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Global carbon budget
+Title: Project Ideas
 tags: [Climate, Economics, Time series]
 math: true
 ---

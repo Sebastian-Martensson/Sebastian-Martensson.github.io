@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Project Ideas
+Title: Climate change - The global carbon budget
 tags: [Project Ideas]
 math: true
 ---
