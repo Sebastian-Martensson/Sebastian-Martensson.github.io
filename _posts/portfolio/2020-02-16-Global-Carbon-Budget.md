@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Global carbon budget
-tags: [Climate, Economics, Time series]
+Title: Project Ideas
+tags: [Project Ideas]
 math: true
 ---
 <img src="/portfolio/pages-images/Global-Carbon-Budget-page.png" class="page-image" alt="">

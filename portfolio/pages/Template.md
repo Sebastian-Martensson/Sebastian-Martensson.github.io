@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Replication of Tse - Conditional Heteroscedastic Volatility
+Title: 
 tags: [Finance, Economics, GARCH, Replication]
 math: true
 ---
